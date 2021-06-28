@@ -1,0 +1,17 @@
+@media only screen and (max-width: 992px){
+    .header-bottom .banner-text p,
+    .header-bottom .banner-text h1{
+        text-align: center;
+    }
+    .banner-text .gt-btn{
+        text-align: center;
+    }
+}
+@media only screen and (max-width: 768px){
+    .testimonial .col-md-4 img{
+        margin: 0 auto;
+    }
+    .footer .list-group{
+        text-align: center;
+    }
+}
